@@ -58,9 +58,9 @@ function App() {
 
   return (
     <div className='App'>
-    <Header/>
+    /* <Header/>
     <Editor onCreate={onCreate}/>
-    <List todos={todos} onUpdate={onUpdate} onDelete={onDelete}/>
+    <List todos={todos} onUpdate={onUpdate} onDelete={onDelete}/> */
     </div>
   )
 }
